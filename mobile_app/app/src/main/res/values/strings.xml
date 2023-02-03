@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonitorControl</string>
+    <string name="app_settings">設定</string>
+    <string name="app_hostname">主機位置：</string>
+    <string name="app_hostport">連接埠：</string>
+    <string name="app_power">電源開關</string>
+    <string name="app_input">輸入訊號</string>
+    <string name="app_displayport1">DisplayPort 1</string>
+    <string name="app_displayport2">DisplayPort 2</string>
+    <string name="app_hdmi1">HDMI 1</string>
+    <string name="app_hdmi2">HDMI 2</string>
+</resources>
